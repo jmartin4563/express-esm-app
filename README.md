@@ -1,5 +1,5 @@
 # express-esm-app
-Example application using Express and ESM to debug [node-newrelic](https://github.com/newrelic/node-newrelic/issues/1646)
+Example application using Express and ESM to debug [node-newrelic#1646](https://github.com/newrelic/node-newrelic/issues/1646)
 
 # Quickstart
 ```
